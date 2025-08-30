@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hello, my name is Guilherme Miyamoto Bragatto, I'm from Brazil and I'm taking the information systems course at Mackenzie, I want to deepen my knowledge of programming and team management during this process.</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=47B8F7&duration=3500&lines=Olá!+👋;+Sou+o+Guilherme+Bragatto!;" />
 
 ###
 
