@@ -1,14 +1,8 @@
-<h1 align="left">👋 Hey  There</h1>
-
-##
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 ###
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=47B8F7&duration=3500&lines=Olá!+👋;+Sou+o+Guilherme+Bragatto!;" />
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=47B8F7&duration=3500&lines=Olá!+👋;+Sou+o+Guilherme+Bragatto!;" />
+</h1>
 
 ###
 
