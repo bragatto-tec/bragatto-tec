@@ -53,8 +53,7 @@
   <a href="https://www.linkedin.com/in/guilherme-miyamoto-bragatto-2102b4355/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="guimbragatto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <a href = "mailto:guimbragatto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </a>
 </div>
 
@@ -65,9 +64,9 @@
 ###
 
 <div align="center">
- <a href="https://github.com/bragatto-tec">
+  <a href="https://github.com/bragatto-tec">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bragatto-tec&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bragatto-tec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragatto-tec&layout=compact&langs_count=16&theme=transparent&hide_border=true"/>
 </div>
 
 ###
