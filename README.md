@@ -65,7 +65,7 @@
 
 <div align="center">
    <a href="https://github.com/bragatto-tec">
-   <img height="180em" src="https://streak-stats.demolab.com?user=bragatto-tec&theme=nightowl" alt="GitHub Streak" />
+   <img height="140em" src="https://streak-stats.demolab.com?user=bragatto-tec&theme=nightowl" alt="GitHub Streak" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragatto-tec&layout=compact&langs_count=16&theme=transparent&hide_border=true"/>
 </div>
 
