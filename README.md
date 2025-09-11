@@ -67,8 +67,8 @@
 
 <div align="center">
   <a href="https://github.com/bragatto-tec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bragatto-tec&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <div align=center>
+  <img src="https://streak-stats.demolab.com?user=bragatto-tec&theme=nightowl" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragatto-tec&layout=compact&langs_count=16&theme=transparent&hide_border=true"/>
-</div>
-
+  </div>
 ###
