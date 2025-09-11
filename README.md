@@ -72,4 +72,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragatto-tec&layout=compact&langs_count=16&theme=transparent&hide_border=true"/>
   </div>
   </div>
-###
+
