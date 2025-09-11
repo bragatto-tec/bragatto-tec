@@ -1,7 +1,7 @@
 
 ###
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.comfont=Fira+Code&size=21&center=true&duration=3900&pause=500&color=A259FF&width=435&lines=I'm+Guilherme+Bragatto;%F0%9F%A4%96" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&center=true&duration=3900&pause=500&color=A259FF&width=435&lines=I'm+Guilherme+Bragatto;" alt="Typing SVG" />
 </h1>
 
 ###
