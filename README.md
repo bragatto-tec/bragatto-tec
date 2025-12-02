@@ -69,7 +69,7 @@
 
 <div align="center">
    <a href="https://github.com/bragatto-tec">
-   <img height="155em" src="https://streak-stats.demolab.com?user=bragatto-tec&theme=nightowl" alt="GitHub Streak"/>
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bragatto-tec&theme=transparent)
    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragatto-tec&layout=compact&langs_count=16&theme=transparent&hide_border=true"/>
 </div>
 
