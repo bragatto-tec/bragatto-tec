@@ -6,9 +6,9 @@
 
 ###
 <h2> About me 🌑 </h2> 
- - Cursando **Sistemas de informação** na Universidade Presbiteriana Mackenzie
- - Formado no Ensino Médio Técnico pela Fecap em Programação de Jogos Digitais
- - Foco em evoluir em minhas habilidades Full-Stack com foco em **JAVA/Spring Boot** 
+ - Cursando Sistemas de informação na Universidade Presbiteriana Mackenzie<br>
+ - Formado no Ensino Médio Técnico pela Fecap em Programação de Jogos Digitais<br>
+ - Foco em evoluir em minhas habilidades Full-Stack com foco em JAVA/Spring Boot <br>
  <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-miyamoto-bragatto-2102b4355/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
