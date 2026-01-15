@@ -1,85 +1,59 @@
-
-###
-<h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&center=true&duration=3900&pause=500&color=A259FF&width=435&lines=I'm+Guilherme+Bragatto;" alt="Typing SVG" />
-</h1>
-
-###
-<h2> About me 🌑 </h2> 
- - Cursando Sistemas de informação na Universidade Presbiteriana Mackenzie<br>
- - Formado no Ensino Médio Técnico pela Fecap em Programação de Jogos Digitais<br>
- - Foco em evoluir em minhas habilidades Full-Stack com foco em JAVA/Spring Boot <br>
- <br>
- <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-miyamoto-bragatto-2102b4355/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-    <a href = "mailto:guimbragatto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome,+I'm+Guilherme+Bragatto+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
-<h2 align="left">🎓 Academic Experience</h2>
 
-###
+#
 
-<p align="left">🟥 Mackenzie | information systems<br>🗓️ Feb 2025 – Present<br><br>Participating in software development projects and focusing on programming languages and systems analysis.<br>🟩 FECAP | digital game programming<br>🗓️ Feb 2021 – Nov 2023</p>
+<p align="center">Estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie. Formado no Ensino Médio Técnico pela Fecap em Programação de Jogos Digitais.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Focado em evoluir em minhas habilidades Full-Stack com foco em JAVA/Spring Boot.
 
-###
+#
 
-<h2 align="left">Languages</h2>
+<img align="right" alt="" height="190px" src="./img/computer.png">
 
-###
+<h3 align="left">Connect with me!</h3>
 
-<p align="left">- Intermediate-Advanced English by CELLEP<br>- Basic Spanish</p>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:guimbragatto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/guilherme-miyamoto-bragatto)
 
-###
-
-<h2 align="left">Programming Languages</h2>
-
-###
+<h3 align="left">My Stack </h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" alt="java"  />
-  <img width="12" />
-  <img alt="React" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
-  <img width="12" />
-  <img alt="visual" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img width="12" />
-  <img alt="git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25" alt="photoshop logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="25" alt="java"  />
+  <img width="8" />
+  <img alt="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
+  <img width="8" />
+  <img alt="visual" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img width="8" />
+  <img alt="git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="8" />
 </div>
 
-###
+#
 
-<h2 align="left">Stats</h2>
+<h2 align="left">🎓 Academic Experience</h2>
+<p align="left">🟥 Mackenzie | information systems<br>🗓️ Feb 2025 – Present<br><br>Participating in software development projects and focusing on programming languages and systems analysis.<br>🟩 FECAP | digital game programming<br>🗓️ Feb 2021 – Nov 2023</p>
+<div style="text-align: center;" align="center">
 
-###
-
-<div align="center">
-   <a href="https://github.com/bragatto-tec">
-    <a![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bragatto-tec&theme=transparent)>
-   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragatto-tec&layout=compact&langs_count=16&theme=transparent&hide_border=true"/>
-</div>
-     
-###
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bragatto-tec/bragatto-tec/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bragatto-tec/bragatto-tec/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bragatto-tec/bragatto-tec/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
