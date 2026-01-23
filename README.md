@@ -47,7 +47,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <h2 align="left">🎓 Academic Experience</h2>
-<p align="left">🟥 Mackenzie | information systems<br>🗓️ Feb 2025 – <br>🟩 FECAP | digital game programming<br>🗓️ Feb 2021 – Nov 2023</p>
+<p align="left">🟥 Mackenzie | information systems<br>🗓️ Feb 2025 – Dez 2028 <br>🟩 FECAP | digital game programming<br>🗓️ Feb 2021 – Nov 2023</p>
 <div style="text-align: center;" align="center">
 
 #
