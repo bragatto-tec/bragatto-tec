@@ -8,7 +8,7 @@
 #
 
 <p align="center">Estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie. Formado no Ensino Médio Técnico pela Fecap em Programação de Jogos Digitais.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Focado em evoluir em minhas habilidades Full-Stack com foco em JAVA/Spring Boot
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Focado em evoluir em minhas habilidades Full-Stack com foco em JAVA/Spring Boot.
 
 #
 
