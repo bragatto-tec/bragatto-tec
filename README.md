@@ -45,13 +45,22 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 #
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Academic+Experience+" alt="Typing SVG">
 
-<h2 align="left">🎓 Academic Experience</h2>
-<p align="left">🟥 Mackenzie | information systems<br>🗓️ Feb 2025 – Dez 2028 <br>🟩 FECAP | digital game programming<br>🗓️ Feb 2021 – Nov 2023</p>
-<div style="text-align: center;" align="center">
+- **🟩 Record | Intern - Developer DTV3.0+**  
+  *🗓️ April – Present*  
+  - Back-end development with Java Spring.**
+  - Here you will also find solutions and ideas for the launch of our TV system.
 
 #
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Profissional+Experience+" alt="Typing SVG">
 
+- **🟥  Mackenzie | information systems**  
+  *🗓️ Feb 2025 – Dez 2028*  
+
+- **🟩 FECAP | digital game programming**  
+  *🗓️ Feb 2021 – Nov 2023*  
+#
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bragatto-tec/bragatto-tec/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bragatto-tec/bragatto-tec/output/github-contribution-grid-snake-dark.svg">
