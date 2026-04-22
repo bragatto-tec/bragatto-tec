@@ -49,7 +49,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 - **🟩 Record | Intern - Developer DTV3.0+**  
   *🗓️ April – Present*  
-  - Back-end development with Java Spring.**
+  - Back-end development with Java Spring.
   - Here you will also find solutions and ideas for the launch of our TV system.
 
 #
