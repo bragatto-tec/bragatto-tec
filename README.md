@@ -45,16 +45,14 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 #
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Academic+Experience+" alt="Typing SVG">
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Profissional+Experience+" alt="Typing SVG">
 - **🟩 Record | Intern - Developer DTV3.0+**  
   *🗓️ April – Present*  
   - Back-end development with Java Spring.
   - Here you will also find solutions and ideas for the launch of our TV system.
 
 #
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Profissional+Experience+" alt="Typing SVG">
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Academic+Experience+" alt="Typing SVG">
 - **🟥  Mackenzie | information systems**  
   *🗓️ Feb 2025 – Dez 2028*  
 
