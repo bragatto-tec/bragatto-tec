@@ -7,8 +7,8 @@
 
 #
 
-<p align="center">Estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie. Formado no Ensino Médio Técnico pela Fecap em Programação de Jogos Digitais.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Focado em evoluir em minhas habilidades Full-Stack com foco em JAVA/Spring Boot.
+<p align="center">Information Systems student at Mackenzie Presbyterian University. Graduated from Fecap's Technical High School in Digital Game Programming.
+I am constantly updating my knowledge and seeking new challenges in the technology field. Focused on developing my Full-Stack skills with a focus on JAVA/Spring Boot.
 
 #
 
@@ -45,14 +45,14 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 #
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Profissional+Experience+" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Profissional+Experience+" alt="Typing SVG">
 - **🟩 Record | Intern - Developer DTV3.0+**  
   *🗓️ April – Present*  
   - Back-end development with Java Spring.
   - Here you will also find solutions and ideas for the launch of our TV system.
 
 #
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Academic+Experience+" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Academic+Experience+" alt="Typing SVG">
 - **🟥  Mackenzie | information systems**  
   *🗓️ Feb 2025 – Dez 2028*  
 
