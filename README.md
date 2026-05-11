@@ -46,6 +46,7 @@ I am constantly updating my knowledge and seeking new challenges in the technolo
 
 #
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Profissional+Experience+" alt="Typing SVG">
+
 - **🟩 Record | Intern - Developer DTV3.0+**  
   *🗓️ April – Present*  
   - Back-end development with Java Spring.
@@ -53,6 +54,7 @@ I am constantly updating my knowledge and seeking new challenges in the technolo
 
 #
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Academic+Experience+" alt="Typing SVG">
+
 - **🟥  Mackenzie | information systems**  
   *🗓️ Feb 2025 – Dez 2028*  
 
